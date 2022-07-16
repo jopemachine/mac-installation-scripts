@@ -60,6 +60,7 @@ brew install --HEAD universal-ctags/universal-ctags/universal-ctags
 # git
 install hub
 install git-delta
+install git-extras
 install lazy-git
 install github
 install gitkraken
@@ -95,6 +96,7 @@ install ndm
 install alt-tab
 install kindavim
 install hex-fiend
+install fig
 
 # communication
 install slack
